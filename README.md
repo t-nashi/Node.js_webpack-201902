@@ -1,7 +1,8 @@
 # Node.js_webpack-201902
 初期環境整理中
+<br><br><br>
 
-
+## 【 インストール済のプラグイン 】
 - `@babel/core`  
   └ ES6（ES2015/ECMAScript 2015）→ ES5
 
