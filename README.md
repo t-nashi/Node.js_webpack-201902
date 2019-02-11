@@ -5,79 +5,79 @@
 - `@babel/core`  
   └ ES6（ES2015/ECMAScript 2015）→ ES5
 
-- @babel/preset-env  
+- `@babel/preset-env`  
   └ ES6（ES2015/ECMAScript 2015）→ ES5
 
-- autoprefixer  
+- `autoprefixer`  
   └ ベンダープレフィックス
 
-- babel-loader  
+- `babel-loader`  
   └ ES6（ES2015/ECMAScript 2015）→ ES5
 
-- bootstrap  
+- `bootstrap`  
   └ bootstrapを利用するための基盤
 
-- browser-sync  
+- `browser-sync`  
   └ Browsersyncを利用するための基盤
 
-- browser-sync-webpack-plugin  
+- `browser-sync-webpack-plugin`  
   └ BrowsersyncをWebpackのplugin形式で扱うためのプラグイン
 
-- copy-webpack-plugin  
+- `copy-webpack-plugin`  
   └ ファイルを構造を維持してコピー
 
-- css-loader  
+- `css-loader`  
   └ cssをjsにバンドルする
 
-- cssnano  
+- `cssnano`  
   └ postcssでminify化をするためのもの
 
-- eslint  
+- `eslint`  
   └ jsの構文チェック
 
-- eslint-loader  
+- `eslint-loader`  
   └ eslintでjsの構文チェックするために必要なプラグイン
 
-- extract-text-webpack-plugin  
+- `extract-text-webpack-plugin`  
   └ ビルドされたjsファイルからstyleの部分を抽出してcssファイルで出力
 
-- file-loader  
+- `file-loader`  
   └ url-loaderのlimit時にカバー
 
-- jquery  
+- `jquery`  
   └ jqueryを利用するための基盤
 
-- node-reset-scss  
+- `node-reset-scss`  
   └ reset.css
 
-- node-sass  
+- `node-sass`  
   └ sass-loaderを利用する上で必要
 
-- optimize-css-assets-webpack-plugin  
+- `optimize-css-assets-webpack-plugin`  
   └ productionモードでcssのminifyを行う
 
-- popper.js  
+- `popper.js`  
   └ bootstrap拡張？
 
-- postcss-loader  
+- `postcss-loader`  
   └ css拡張？
 
-- sass-loader  
+- `sass-loader`  
   └ sassをcssに変換
 
-- style-loader  
+- `style-loader`  
   └ STYLEタグの出力
 
-- url-loader  
+- `url-loader`  
   └ Base64文字列として変換
 
-- webpack  
+- `webpack`  
   └ webpackの基本
 
-- webpack-cli  
+- `webpack-cli`  
   └ webpackの基本
 
-- webpack-dev-server  
+- `webpack-dev-server`  
   └ browser-syncと同等のもの？
 
 
