@@ -2,7 +2,7 @@
 初期環境整理中
 
 
-- @babel/core  
+- `@babel/core`  
   └ ES6（ES2015/ECMAScript 2015）→ ES5
 
 - @babel/preset-env  
