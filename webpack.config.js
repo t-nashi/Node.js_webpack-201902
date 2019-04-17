@@ -137,7 +137,11 @@ module.exports = {
 					options: {
 							// limitのbyte数以下はBase64化、以上は画像参照 ※file-loaderが必要
 							limit: 8192,
-							name: '../images/[name].[ext]'
+							name: '[name].[ext]',
+							// outputPath : 'images/',
+							publicPath : function(path){
+								return '../images/' + path;
+							}
 					}
 				}
 			},
